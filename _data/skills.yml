@@ -61,8 +61,10 @@
     - class: a-plain
       skill_name: Arabic
 
-- name: mobile
+- name: Cerifications
   skills:
-    - class: react-original
-      skill_name: React Native
+    - class: comptia-plain
+      skill_name: COMPTIA A+
+    - class: linux-plain
+      skill_name: LPI Essentials
      
