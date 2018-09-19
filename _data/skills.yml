@@ -43,7 +43,7 @@
   skills:
     - class: git-plain
       skill_name: Git
-    -class: github-plain
+    - class: github-plain
       skill_name: Github
     - class: intellij-plain
       skill_name: Intellij
@@ -51,3 +51,18 @@
       skill_name: Pycharm
     - class: vim-plain
       skill_name: Vim
+ 
+- name: Languages
+  skills:
+    - class: h-plain
+      skill_name: Hungarian
+    - class: s-plain
+      skill_name: Spanish
+    - class: a-plain
+      skill_name: Arabic
+
+- name: mobile
+  skills:
+    - class: react-original
+      skill_name: React Native
+     
