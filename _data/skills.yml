@@ -39,3 +39,15 @@
     - class: trello-plain
       skill_name: Trello
 
+- name: Development Environments
+  skills:
+    - class: git-plain
+      skill_name: Git
+    -class: github-plain
+      skill_name: Github
+    - class: intellij-plain
+      skill_name: Intellij
+    - classs: pycharm-plain
+      skill_name: Pycharm
+    - class: vim-plain
+      skill_name: Vim
