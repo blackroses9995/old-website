@@ -1,4 +1,4 @@
-- name: web
+- name: Web Dev.
   skills:
     - class: css3-plain
       skill_name: CSS3
@@ -12,12 +12,12 @@
     - class: python-plain
       skill_name: Python
       
-- name: devops
+- name: Adobe Programes
   skills:
-    - class: git-plain
-      skill_name: Git
-    - class: github-plain
-      skill_name: GitHub
+    - class: photoshop-plain
+      skill_name: Photoshop
+    - class: illustrator-plain
+      skill_name: Illustrator
 
 - name: databases
   skills:
