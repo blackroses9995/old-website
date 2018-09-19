@@ -29,4 +29,13 @@
       skill_name: Windows XP-10
     - class: ubuntu-plain
       skill_name: Ubuntu
+      
+- name: Communication & Time Management
+  skills:
+    - class: discord-plain
+      skill_name: Discord
+    - class: slack-plain
+      skill_name: Slack
+    - class: trello-plain
+      skill_name: Trello
 
