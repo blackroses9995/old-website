@@ -47,11 +47,19 @@
       skill_name: Github
     - class: intellij-plain
       skill_name: Intellij
-    - classs: pycharm-plain
+    - class: pycharm-plain
       skill_name: Pycharm
     - class: vim-plain
       skill_name: Vim
- 
+
+
+- name: Cerifications
+  skills:
+    - class: windows8-plain
+      skill_name: COMPTIA A+
+    - class: linux-plain
+      skill_name: LPI Essentials
+      
 - name: Languages
   skills:
     - class: h-plain
@@ -60,11 +68,4 @@
       skill_name: Spanish
     - class: a-plain
       skill_name: Arabic
-
-- name: Cerifications
-  skills:
-    - class: comptia-plain
-      skill_name: COMPTIA A+
-    - class: linux-plain
-      skill_name: LPI Essentials
      
