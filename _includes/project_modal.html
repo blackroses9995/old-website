@@ -27,9 +27,10 @@
           skills:
         </div>
         <div class="col s9 m10">
-          {% for tech in project.technologies %}
-            <i class="devicon-{{tech}} project_icons"></i>
-          {% endfor %}
+<!--           {% for tech in project.technologies %} -->
+          <p class="description col s9 m10">{{project.technologies}}</p>
+<!--             <i class="devicon-{{tech}} project_icons"></i> -->
+<!--           {% endfor %} -->
         </div>
       </div>
     </div>
