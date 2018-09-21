@@ -3,11 +3,9 @@
   url: https://drive.google.com/drive/u/1/folders/1MgXokijKBwy1GRcLIgPdTrvH44kfoKoW
   github_url: https://github.com/blackroses9995/LAVA
   description: LED Audio Visulizer with Acrylic 
-  cover: /assets/images/project_covers/lava-cover.jpg
+  cover: /assets/images/project_covers/lava-cover.png
   technologies: [
-                  C++
-                  Arudino Rev 3
-                  Woodworking
+                  C++, Arduino Rev. 3, Adressable LEDs, and Basic Woodworking
                 ]
   images: [
     '/assets/images/project_images/tic_tac_toe/tictactoe1.png',
