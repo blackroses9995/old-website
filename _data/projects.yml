@@ -4,6 +4,11 @@
   github_url: https://github.com/blackroses9995/LAVA
   description: LED Audio Visulizer with Acrylic 
   cover: /assets/images/project_covers/lava-cover.jpg
+  technologies: [
+                  C++
+                  Arudino Rev 3
+                  Woodworking
+                ]
   images: [
     '/assets/images/project_images/tic_tac_toe/tictactoe1.png',
     '/assets/images/project_images/tic_tac_toe/tictactoe2.png',
