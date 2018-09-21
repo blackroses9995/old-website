@@ -2,10 +2,19 @@
   title: L.A.V.A.
   url: https://drive.google.com/drive/u/1/folders/1MgXokijKBwy1GRcLIgPdTrvH44kfoKoW
   github_url: https://github.com/blackroses9995/LAVA
-  description: LED Audio Visulizer with Acrylic 
+  description: L.A.V.A, or LED Audio Visulizer with Acrylic, is a project I completed during my freshmen year at RIT. 
+  The technical side of L.A.V.A is comprised of; an Arduino Uno Rev. 3, a strand of 60 indivdually addressable LEDs, a speaker to 
+  gather sound, a trimpot to  control brightness, a bunch of jumperwires, about 600 lines of C++, and 3 buttons, one to change the colour
+  pallete of the lights, one to change the visualization effect of the lights, and one button to randomize both effects.
+  In addition to that, L.A.V.A. also represents my first foray into woodworking. I crafted a wooden picture-like-frame and I placed
+  a laser etched sheet of acrylic inside of. The picture is taken from a favourite game of mine (SMITE) and edited in Adobe Illustrator.
+  
   cover: /assets/images/project_covers/lava-cover.png
   technologies: [
-                  C++, Arduino Rev. 3, Adressable LEDs, and Basic Woodworking
+                  C++;
+                  Arduino Uno;
+                  Adressable LEDs;
+                  Basic Woodworking;
                 ]
   images: [
     '/assets/images/project_images/tic_tac_toe/tictactoe1.png',
@@ -14,19 +23,22 @@
   ]
 
 - id: 3
-  title: Stack Overflow Clone
-  url: https://dbc-hackoverflow.herokuapp.com/
-  github_url: https://github.com/wvicioso/hackoverflow
-  description: A standard discussion board app that's an attempt at a very simple version of the popular programming platform <a href='stackoverflow.com'>StackOverflow</a>. It allows users to ask questions, give answers and make comments as well as vote up or down on each of the above.
+  title: BookNook
+  url: https://goo.gl/X5rvis
+  github_url: https://goo.gl/X5rvis
+  description: The BookNook was my Girl Scouts Gold Award project that I completed during my senior year of high school at the Milton
+  Hershey School (MHS). The BookNook, or Nook, is a wooden cart on wheels that holds up to approximately 200 books and a chromebook to act
+  as a Library Management System (LMS). The Nook is a product of almost 300 hours of work on my part along with the help and support of
+  approximately 20 other people at MHS.
   technologies: [
-                  html5-plain,
-                  css3-plain-wordmark,
-                  javascript-plain,
-                  ruby-plain,
-                  sinatra-plain,
-                  postgresql-plain,
-                  heroku-original,
-                  materialize-plain
+                  Communication;
+                  Time Management;
+                  Planning;
+                  Long-Term Goal;
+                  Professional Mannerisms;
+                  Commitment;
+                  Hardwork;
+                  Dedication
                 ]
   cover: /assets/images/project_covers/hack-overflow-cover.png
   images: [
