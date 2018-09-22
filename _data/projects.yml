@@ -11,10 +11,10 @@
   
   cover: /assets/images/project_covers/lava-cover.png
   technologies: [
-                  C++;
-                  Arduino Uno;
-                  Adressable LEDs;
-                  Basic Woodworking;
+                  C++ 
+                  Arduino Uno 
+                  Adressable LEDs 
+                  Basic Woodworking 
                 ]
   images: [
     '/assets/images/project_images/tic_tac_toe/tictactoe1.png',
@@ -31,14 +31,14 @@
   as a Library Management System (LMS). The Nook is a product of almost 300 hours of work on my part along with the help and support of
   approximately 20 other people at MHS.
   technologies: [
-                  Communication;
-                  Time Management;
-                  Planning;
-                  Long-Term Goal;
-                  Professional Mannerisms;
-                  Commitment;
-                  Hardwork;
-                  Dedication
+                  Communication 
+                  Time Management 
+                  Planning 
+                  Long-Term Goal 
+                  Professional Mannerisms 
+                  Commitment 
+                  Hardwork 
+                  Dedication 
                 ]
   cover: /assets/images/project_covers/hack-overflow-cover.png
   images: [
