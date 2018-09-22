@@ -2,12 +2,7 @@
   title: L.A.V.A.
   url: https://drive.google.com/drive/u/1/folders/1MgXokijKBwy1GRcLIgPdTrvH44kfoKoW
   github_url: https://github.com/blackroses9995/LAVA
-  description: L.A.V.A, or LED Audio Visulizer with Acrylic, is a project I completed during my freshmen year at RIT. 
-  The technical side of L.A.V.A is comprised of; an Arduino Uno Rev. 3, a strand of 60 indivdually addressable LEDs, a speaker to 
-  gather sound, a trimpot to  control brightness, a bunch of jumperwires, about 600 lines of C++, and 3 buttons, one to change the colour
-  pallete of the lights, one to change the visualization effect of the lights, and one button to randomize both effects.
-  In addition to that, L.A.V.A. also represents my first foray into woodworking. I crafted a wooden picture-like-frame and I placed
-  a laser etched sheet of acrylic inside of. The picture is taken from a favourite game of mine (SMITE) and edited in Adobe Illustrator.
+  description: L.A.V.A, or LED Audio Visulizer with Acrylic, is a project I completed during my freshmen year at RIT. The technical side of L.A.V.A is comprised of; an Arduino Uno Rev. 3, a strand of 60 indivdually addressable LEDs, a speaker to gather sound, a trimpot to  control brightness, a bunch of jumperwires, about 600 lines of C++, and 3 buttons, one to change the colour pallete of the lights, one to change the visualization effect of the lights, and one button to randomize both effects. In addition to that, L.A.V.A. also represents my first foray into woodworking. I crafted a wooden picture-like-frame and I placed a laser etched sheet of acrylic inside of. The picture is taken from a favourite game of mine (SMITE) and edited in Adobe Illustrator.
   
   cover: /assets/images/project_covers/lava-cover.png
   technologies: [
