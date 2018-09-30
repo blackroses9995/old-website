@@ -1,4 +1,4 @@
-- name: Web Dev.
+- name: Web Dev
   skills:
     - class: css3-plain
       skill_name: CSS3
@@ -30,7 +30,7 @@
     - class: ubuntu-plain
       skill_name: Ubuntu
       
-- name: Time Mngt.
+- name: Time Mngt
   skills:
     - class: discord-plain
       skill_name: Discord
@@ -39,7 +39,7 @@
     - class: trello-plain
       skill_name: Trello
 
-- name: Devops.
+- name: Devops
   skills:
     - class: git-plain
       skill_name: Git
@@ -53,7 +53,7 @@
       skill_name: Vim
 
 
-- name: Certs.
+- name: Certifications
   skills:
     - class: windows8-plain
       skill_name: COMPTIA A+
