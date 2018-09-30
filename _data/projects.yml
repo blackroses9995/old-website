@@ -12,9 +12,9 @@
                   Basic Woodworking 
                 ]
   images: [
-    '/assets/images/project_images/tic_tac_toe/tictactoe1.png',
-    '/assets/images/project_images/tic_tac_toe/tictactoe2.png',
-    '/assets/images/project_images/tic_tac_toe/tictactoe3.png'
+    '/assets/images/project_images/lava/lava1.png',
+    '/assets/images/project_images/lava/lava2.png',
+    '/assets/images/project_images/lava/lava3.png'
   ]
 
 - id: 3
@@ -32,24 +32,13 @@
                   Hardwork 
                   Dedication 
                 ]
-  cover: /assets/images/project_covers/hack-overflow-cover.png
+  cover: /assets/images/project_covers/booknook-cover.png
   images: [
-    '/assets/images/project_covers/hack-overflow-cover.png'
+    '/assets/images/project_images/booknook/booknook1.png',
+    '/assets/images/project_images/booknook/booknook2.png,
+    '/assets/images/project_images/booknook/booknook3.png
   ]
-- id: 4
-  title: ShootThingsGame
-  url: https://levytsroman.github.io/shootThingsGame/
-  github_url: https://github.com/LevytsRoman/shootThingsGame
-  description: A small javaScript browser game, featuring a red plane (player) and an unhealthy onslaught of enemy planes flying over a pictureque rendering of my favorite planet (Earth) in MS Paint.
-  technologies: [
-                  html5-plain,
-                  css3-plain-wordmark,
-                  javascript-plain
-                ]
-  cover: /assets/images/project_covers/shoot-things-game-cover.png
-  images: [
-    '/assets/images/project_covers/shoot-things-game-cover.png'
-  ]
+
 # - name: Tic-tac-toe
 #   url: https://dbc-engage-me.herokuapp.com/
 #   github_url: https://github.com/LevytsRoman/EngageMe
